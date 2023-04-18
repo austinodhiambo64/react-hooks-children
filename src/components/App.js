@@ -10,7 +10,7 @@ function App() {
         <div>This is an example!</div>
         <div>This is an example!</div>
         <div>This is an example!</div>
-        <div>This is an example!</div>
+        
         <div>This is an example!</div>
       </Container>
       <Container header="Example header" textPosition="center">
